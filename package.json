@@ -2,7 +2,6 @@
   "name": "host-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://amitvchaudhary.github.io/host-project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
